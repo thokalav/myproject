@@ -45,7 +45,7 @@
 				label="Spring" /> <form:checkbox path="community" value="Hibernate"
 				label="Hibernate" /> <form:checkbox path="community" value="Struts"
 				label="Struts" /><form:checkbox path="community" value="React"
-				label="React" /></td>
+				label="ReactUI" /></td>
 		</tr>
 		<tr>
 			<td></td>
